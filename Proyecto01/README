@@ -17,13 +17,14 @@ Passos:
 - Crie um senso de identidade para cada computador, atribuindo nomes e números de endereços IP;
 - Configure os endereços IP para as interfaces dos PCs e do switch de acordo com a mesma sub-rede.
 
-![image](https://github.com/kyska22/PROZ-LINUX/assets/129115993/1953d3b6-c628-4440-a812-8fa8df7643b2)
+
+
 
 
 5. Testar a comunicação
 - Para verificar se todos os computadores estão devidamente configurados, acesse um dos PCs da equipe, abra o prompt de comando e tente fazer um ping para o endereço IP do computador de outro membro da equipe.
 
-![image](https://github.com/kyska22/PROZ-LINUX/assets/129115993/239f8309-6fef-4886-802e-271737897546)
+
 
 
 
