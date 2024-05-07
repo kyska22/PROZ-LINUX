@@ -18,9 +18,6 @@ Passos:
 - Configure os endereços IP para as interfaces dos PCs e do switch de acordo com a mesma sub-rede.
 
 
-
-
-
 5. Testar a comunicação
 - Para verificar se todos os computadores estão devidamente configurados, acesse um dos PCs da equipe, abra o prompt de comando e tente fazer um ping para o endereço IP do computador de outro membro da equipe.
 
